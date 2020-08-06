@@ -6,6 +6,7 @@ just some questions
 Given an array of numbers nums, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.
 
 > Input:  [1,2,1,3,2,5]
+
 > Output: [3,5]
 
 ## 54. Spiral Matrix
@@ -26,7 +27,9 @@ Given a matrix of m x n elements (m rows, n columns), return all elements of the
 Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
 
 > Input: 38
+
 > Output: 2 
+
 > Explanation: The process is like: 3 + 8 = 11, 1 + 1 = 2. 
              Since 2 has only one digit, return it.
              
@@ -45,6 +48,8 @@ It is guaranteed that the answer will in the range of 32-bit signed integer.
         3     2
        / \     \  
       5   3     9 
+      
 > Output: 4
+
 > Explanation: The maximum width existing in the third level with the length 4 (5,3,null,9).
 
